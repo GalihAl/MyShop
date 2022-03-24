@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyShop</string>
+    <string name="register">Register</string>
+    <string name="error_msg_firstname">please insert first name !</string>
+    <string name="error_msg_lastname">please insert last name !</string>
+    <string name="error_msg_emailId">please insert email !</string>
+    <string name="error_msg_password">please insert password !</string>
+    <string name="error_msg_confirmpassword">please confirm password !</string>
+    <string name="error_msg_checlbox_term_and_condition">you must check the check box</string>
+
+    <string name="error_msg_password_and_confirmpassword_mistmatch">password and confirm password mistmatc!</string>
+
+</resources>
